@@ -1,0 +1,30 @@
+# Core framework
+streamlit>=1.28.0
+
+# Audio recording and processing
+st-audiorec>=0.0.5
+pyaudio>=0.2.11
+wave>=0.0.2
+
+# Device detection and responsive design
+user-agents>=2.2.0
+python-user-agents>=2.0
+
+# Mobile and PWA support
+streamlit-pwa>=0.2.0
+streamlit-mobile>=0.1.0
+
+# UI enhancements
+streamlit-extras>=0.3.0
+streamlit-option-menu>=0.3.6
+
+# Database and storage
+supabase>=2.0.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+
+# API and utilities
+requests>=2.31.0
+
+# Performance and caching
+streamlit-cache>=0.1.0

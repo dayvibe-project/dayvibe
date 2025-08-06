@@ -1,0 +1,8 @@
+# Enhanced Streamlit requirements for responsive design
+streamlit>=1.28.0
+streamlit-js-eval>=0.1.6     # Get browser info in Python
+streamlit-extras>=0.3.0      # Enhanced mobile widgets
+streamlit-option-menu>=0.3.6 # Mobile-friendly navigation
+pandas>=1.5.0
+python-user-agents>=2.2.0    # Better device detection
+mobile-detect>=0.1.3         # Mobile detection library
